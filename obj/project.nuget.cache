@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WyzoBl/xTFzKwU9oVwTrhxRmGKZUrnDQxccGK+mzEkkBnB0KgR00zKlQ4dkn0KI66D0qJXmUlMpIQJpIJXstA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\Guessing Game\\Guessing Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles Mbithi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Charles Mbithi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Charles Mbithi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Charles Mbithi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

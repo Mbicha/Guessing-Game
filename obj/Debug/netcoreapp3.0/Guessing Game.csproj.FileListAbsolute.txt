@@ -1,0 +1,24 @@
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.exe
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.deps.json
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.runtimeconfig.json
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.runtimeconfig.dev.json
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.dll
+E:\C# Projects\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.pdb
+E:\C# Projects\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.csprojAssemblyReference.cache
+E:\C# Projects\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.AssemblyInfoInputs.cache
+E:\C# Projects\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.AssemblyInfo.cs
+E:\C# Projects\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.dll
+E:\C# Projects\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.pdb
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.exe
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.deps.json
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.runtimeconfig.json
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.runtimeconfig.dev.json
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.dll
+E:\Projects\C#\Guessing Game\bin\Debug\netcoreapp3.0\Guessing Game.pdb
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.csprojAssemblyReference.cache
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.AssemblyInfoInputs.cache
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.AssemblyInfo.cs
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.dll
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.pdb
+E:\Projects\C#\Guessing Game\obj\Debug\netcoreapp3.0\Guessing Game.genruntimeconfig.cache
